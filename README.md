@@ -18,7 +18,7 @@
 
 깃허브 페이지 현황입니다.
 
-![pikamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikamonvvs&show_icons=true&theme=radical)
+![pikamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjaesik&show_icons=true&theme=radical)
 
 ### 🍀 Rank of BOJ
 
