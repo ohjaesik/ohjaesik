@@ -7,17 +7,12 @@
 안녕하세요, 이것은 테스트를 위한 메인 페이지입니다.
 아무 말이나 써보고 있습니다❕
 
-### 🍀 Visitors
-
-방문자 수입니다.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikamonvvs%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🍀 Most Used Language
 
 가장 많이 사용한 언어입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikamonvvs&langs_count=8)](https://github.com/pikamonvvs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikamonvvs&langs_count=8)](https://github.com/ohjaesik/github-readme-stats)
 
 ### 🍀 GitHub Status
 
