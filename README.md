@@ -24,7 +24,7 @@
 
 백준 랭크입니다.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pikamonvvs)](https://solved.ac/pikamonvvs)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=oh5259)](https://solved.ac/oh5259)<br/>
 
 <!--
 **pikamonvvs/pikamonvvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
