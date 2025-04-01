@@ -12,7 +12,7 @@
 
 가장 많이 사용한 언어입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikamonvvs&langs_count=8)](https://github.com/ohjaesik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjaesik&langs_count=8)](https://github.com/ohjaesik/github-readme-stats)
 
 ### 🍀 GitHub Status
 
