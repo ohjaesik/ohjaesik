@@ -113,19 +113,9 @@ AI 모델이 실제 하드웨어에서 실행될 때 발생하는 성능 병목�
 
 ## GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ohjaesik&show_icons=true&theme=default&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohjaesik&show_icons=true&cache_seconds=86400)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjaesik&layout=compact&theme=default&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjaesik&layout=compact&cache_seconds=86400)
 
 ---
 
